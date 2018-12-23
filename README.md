@@ -14,19 +14,19 @@ A simple Spring boot application that demonstrates the usage of RESTful API usin
 
 ## Steps to install
 
-** 1. Clone the application **
+**1. Clone the application**
 
 ```bash
 git clone https://github.com/scbushan05/spring-boot-hibernate-mysql-rest-api.git
 ```
 
-** 2. Create MySQL database **
+**2. Create MySQL database**
 
 ```sql
 CREATE DATABASE crudapi
 ```
 	
-** 3. Create table or Run the SQL script file **
+**3. Create table or Run the SQL script file**
 
 ```sql
 CREATE TABLE tbl_employee
@@ -39,13 +39,13 @@ CREATE TABLE tbl_employee
 )
 ```
 	
-** 4. Change MySQL Username and Password as per your MySQL Installation **
+**4. Change MySQL Username and Password as per your MySQL Installation**
 	
 + open `src/main/resources/application.properties` file.
 
 + change `spring.datasource.username` and `spring.datasource.password` as per your installation
 	
-** 5. Run the app **
+**5. Run the app**
 
 You can run the spring boot app by typing the following command -
 
