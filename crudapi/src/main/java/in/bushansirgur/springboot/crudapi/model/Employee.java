@@ -17,13 +17,13 @@ public class Employee {
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Integer id;
-	
+	@Column
 	private String name;
-	
+	@Column
 	private String gender;
-	
+	@Column
 	private String department;
-	
+	@Column
 	private Date dob;
 
 	public Integer getId() {
