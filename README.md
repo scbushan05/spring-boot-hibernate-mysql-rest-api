@@ -80,6 +80,10 @@ You can test them using postman or any other rest client.
 
 ## Learn more
 
+You can find the video tutorial for this application on my youtube channel -
+
+<https://www.youtube.com/playlist?list=PLA7e3zmT6XQXIFcweUahWz2rQtmeI8dnl/>
+
 You can find the tutorial for this application on my blog -
 
 <http://bushansirgur.in/>
